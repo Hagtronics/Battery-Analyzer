@@ -2,7 +2,7 @@
 The "Battery Decimator 9000" is a home built battery analyzer for small batteries in the range of 0-5amps and 0-14 volts.  
 
 The full article is posted here,  
-  www.edn.com/tbd
+  https://www.edn.com/a-small-dedicated-battery-analyzer-design/
    
 Finished BD9000,  
 ![Finished BD9000](Figure4.jpg)

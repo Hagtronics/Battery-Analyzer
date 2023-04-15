@@ -12,6 +12,6 @@ Interior View,
    
 This design was meant to provide me with a quick solution based largely on the junk box parts that I had available. It was designed with the goal of getting ‘one’ to work, and it served that purpose well. The design is not production ready and should be carefully analyzed before adapting it to any other application or need.  
   
-Translation: You are on your own.  
+Translation: This is total "Freeware" and "You are on your own".  
 //--- Fini ---  
   

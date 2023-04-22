@@ -14,7 +14,7 @@ Interior View,
   
 If you have a question on how or why the design works, please don't open an 'issue', just ping me at steve(at)analoghome.com and I will gladly answer if I can.  
   
-If you fina a real 'issue', then by all means open a new issue here.
+If you find a real 'issue', then by all means open a new GitHub 'issue' here.
   
 Important: This design was meant to provide me with a quick solution based largely on the junk box parts that I had available. It was designed with the goal of getting ‘one’ to work, and it served that purpose for me well. The design is not production ready and should be carefully analyzed by YOU, before adapting it to any other application or need.  
   
